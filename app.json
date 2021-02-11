@@ -14,13 +14,29 @@
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
         "value": ""
-      },
+      }, 
       "API_HASH": {
         "description": "get this value from https://my.telegram.org",
         "value": ""
       },
       "BOT_TOKEN": {
         "description": "get this value from @BotFather",
+        "value": ""
+      },
+      "SUDO_USERS": {
+        "description": "get this value from https://my.telegram.org",
+        "value": ""
+      },
+      "Group": {
+        "description": "get this value from https://my.telegram.org",
+        "value": ""
+      },
+      "MONGO_DB_URI": {
+        "description": "get this value from https://my.telegram.org",
+        "value": ""
+      },
+      "DUR_LIMIT": {
+        "description": "get this value from https://my.telegram.org",
         "value": ""
       },
       "BOT_PASSWORD": {
